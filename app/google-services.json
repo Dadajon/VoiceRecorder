@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832539901937",
+    "firebase_url": "https://voicerecorder-99718.firebaseio.com",
+    "project_id": "voicerecorder-99718",
+    "storage_bucket": "voicerecorder-99718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832539901937:android:f09a9b8a82eb6cbf",
+        "android_client_info": {
+          "package_name": "com.example.shero.voicerecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832539901937-n5eaqho29c4trtjim49daiq3r59m55mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shero.voicerecorder",
+            "certificate_hash": "875f07def90acbfe18dead309261d852025d0b59"
+          }
+        },
+        {
+          "client_id": "832539901937-l0t8ci0ihua8vj2k65ssm499gh5q85m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjUTT7xq-5wgL8Hj3iE59vCm7eao10U70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832539901937-l0t8ci0ihua8vj2k65ssm499gh5q85m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
